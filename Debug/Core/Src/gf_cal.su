@@ -1,0 +1,6 @@
+../Core/Src/gf_cal.c:5:6:printf_bin	24	static
+../Core/Src/gf_cal.c:15:9:gf_add	16	static
+../Core/Src/gf_cal.c:20:9:gf_multiply	24	static
+../Core/Src/gf_cal.c:51:9:gf_pow	24	static
+../Core/Src/gf_cal.c:71:6:gf_divide	32	static
+../Core/Src/gf_cal.c:114:9:gf_inverse	56	static
